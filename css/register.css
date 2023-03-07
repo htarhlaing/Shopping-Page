@@ -1,0 +1,113 @@
+.w{
+    width:1200px;
+    margin: 0 auto;
+}
+
+header{
+    height: 84px;
+    border-bottom: 2px solid rgb(235, 24, 24);
+    padding-top: 18px;
+}
+.register
+{
+    height: 522px;
+    border:1px solid #ccc;
+}
+.header{
+    height: 42px;
+    border-bottom: 2px solid #ccc;
+    background-color: rgb(197, 197, 197);
+    line-height: 42px;
+   padding: 0px 10px;
+   font-size: 18px;
+}
+.header .login
+{
+    float: right;
+    font-size: 14px;
+
+}
+.reg_form
+{
+    width: 600px;
+    
+    margin: 50px auto;
+}
+.reg_form ul li{
+    margin:15px 0px;
+}
+.reg_form ul li label{
+    display:inline-block;
+    width: 88px;
+    text-align: right;
+}
+.reg_form ul li .inp{
+    width: 241px;
+    height: 38px;
+    border: 1px solid #ccc;
+}
+
+.error{
+    color :rgb(235, 24, 24);
+}
+.success{
+    color:rgb(62, 179, 62)
+}
+.error_icon,.success_icon
+{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    background:url('../image/error.png') no-repeat;
+    margin:0px 5px;
+}
+.success_icon{
+    background:url('../image/success.png') no-repeat;
+}
+.safe{
+    padding-left: 168px;
+}
+.safe em{
+    padding: 0px 12px;
+    color:white
+}
+.rou
+{
+    background-color: rgb(224, 22, 22);
+}
+.zhong
+{
+    background-color: rgb(39, 131, 39);
+}
+.qiang{
+    background-color: rgb(226, 226, 57);
+}
+.agree input{
+    vertical-align: middle;
+}
+.agree
+{
+    padding-left:95px;
+}
+.btn
+{
+    width: 200px;
+    height: 34px;
+    background-color: rgb(223, 43, 43);
+    color: white;
+    margin:50px 0px 0px 95px;
+}
+.mod_copyright {
+    padding-top: 20px;
+    text-align: center;
+}
+.mod_copyright .links a{
+    margin-bottom: 10px;
+    padding: 0px 5px ;
+
+}
+.mod_copyright .address
+{
+    line-height: 20px;
+}

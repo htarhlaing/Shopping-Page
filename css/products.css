@@ -1,0 +1,101 @@
+.link{
+    
+    height: 607px;
+}
+.phone
+{   float: left;
+    width: 416px;
+    height: 607px;
+    
+    
+}
+.price{
+    float: left;
+    width: 784px;
+    height: 607px;
+    background-color: skyblue;
+}
+.phone-list
+{
+    height: 45px;
+}
+.phone-list ul li{
+    float: left;
+    font-size: 12px;
+    line-height: 45px;
+}
+.phone-list ul li span{
+   
+    margin: 0px 16px;
+}
+.phone-pic{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(245, 245, 153);
+}
+.phone-show{
+   position: relative;
+    height: 159px;
+    background-color: rgb(59, 137, 168);
+}
+.phone-show ul li{
+    float: left;
+    text-align: center;
+    line-height: 159px;
+}
+.phone-show ul li:first-child{
+    position:absolute;
+    top: 67px;
+    left: 7px;
+    width: 30px;
+    height: 30px;
+    border-left:3px solid #ccc;
+    border-bottom:2px solid #ccc;
+    transform:rotate(45deg)
+}
+
+.price-up
+{
+    padding-top: 39px;
+    margin-left: 66px;
+    height: 318px;
+    border-bottom:1px solid black;
+   
+}
+.price-up p{
+    color: red;
+    font-size: 12px;
+    margin: 18px 0px;
+}
+.discount
+{
+    padding:9px 0 0 68px;
+    height: 115px;
+    background-color: rgb(100, 236, 100);
+}
+.discount h3{
+    font-size: 18px;
+    font-weight: 700;
+    color: red;
+}
+.discount span{
+    background-color: red;
+    color: white;
+}
+.commant{
+    width: 211px;
+    height: 2386px;
+    background-color: rgb(194, 190, 190);
+}
+.title
+{
+    height: 220x;
+    width: 209px; 
+    
+}
+
+.title ul li{
+    float: left;
+    width: 103px;
+    height: 28px;
+}
